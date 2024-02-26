@@ -23,9 +23,7 @@ Bu Windows Form uygulaması, bir sinema büfesindeki ürünlerin adetlerini gire
 2. Projeyi derleyin.
 3. Oluşturulan .exe dosyasını çalıştırın.
 
-## Katkı
 
-Bu proje açık kaynaklıdır ve her türlü katkıya açıktır. Katkıda bulunmak için lütfen bir fork oluşturun ve pull request gönderin.
 
 ## Lisans
 
